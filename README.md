@@ -1,5 +1,9 @@
 this a node js based simple notes application which runs from command line application. This application does four tasks Add, read, list and remove. the application stores data into the notes-data.json file. I have used yargs package to process arguments passed via command line.
 
+first of all run
+
+npm install
+
 To add a new note: 
 
 node custom add -t="title of the note here" -b="and the body goes here"
