@@ -1,0 +1,16 @@
+
+node_modules/\.bin/
+
+node_modules/ansi-regex/
+
+node_modules/camelcase/
+
+node_modules/cliui/
+
+node_modules/code-point-at/
+
+node_modules/cross-spawn/
+
+/node_modules
+
+/playground
